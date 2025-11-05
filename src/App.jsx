@@ -31,7 +31,7 @@ const interests = [
 const projects = [
   {
     title: "Geopolymer Compressive Strength Predictor",
-    description: "This Streamlit web application predicts the compressive strength of geopolymer concrete based on 13 input parameters. It helps to  know its strength without costly physical testing.",
+    description: "This application predicts compressive strength of geopolymer without costly physical testing.",
   
     techStack: ["Computational Materials Scince", "Machine Learning", "Materilas Propety Prediction"],
     link: "https://geopolymer-strength-predictor.streamlit.app/"
