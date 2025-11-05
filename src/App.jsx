@@ -31,24 +31,19 @@ const interests = [
 const projects = [
   {
     title: "Geopolymer Compressive Strength Predictor",
-    description: "This Streamlit web application predicts the compressive strength of geopolymer concrete based on 13 input parameters. It uses a trained XGBoost Regressor model. Users can adjust the input values using sliders, and the app will display the predicted strength in real-time, along with plots showing the model's performance and feature importance.It helps to optimize sustainable concrete mixes without costly physical testing.",
+    description: "This Streamlit web application predicts the compressive strength of geopolymer concrete based on 13 input parameters. It helps to  know its strength without costly physical testing.",
     // 👇 FIX: Changed 'skills' to 'techStack'
     techStack: ["Computational Materials Scince", "Machine Learning", "Materilas Propety Prediction"],
     link: "https://geopolymer-strength-predictor.streamlit.app/"
   },
   {
     title: "Project Metamorph",
-    description: "I did this project when i participated on NASA Space App Cahllenge 2025. During long Mars missions, astronauts will generate over 12,000 kg of waste — returning it to Earth isn’t an option. So what if we could transform that trash into something useful? Project Metamorph reimagines waste as a life-support resource. By combining NASA’s Trash-to-Gas residues (char), recycled cotton pulp, and Martian regolith simulants, the project explores how waste can become a fertile medium for growing microgreens on Mars. This concept bridges materials science, sustainability, and space life-support engineering, showing how circular design can make off-world living more self-sufficient — and inspire more sustainable systems back on Earth. 🌍✨",
+    description: "I did this project when i participated on NASA Space App Cahllenge 2025. Growing Plant using the wastes."
     // 👇 FIX: Changed 'skills' to 'techStack'
-    techStack: ["Computational Materials Scince", "Machine Learning", "Materilas Propety Prediction"],
+    techStack: ["Materials Scince", "Waste Management", "Turning Trash to Treasure"],
     link: "https://project-metamorph.vercel.app/"
   },
-  {
-    title: "Project Gamma",
-    description: "A description of Project Gamma, highlighting the collaborative effort and the final outcome.",
-    techStack: ["Next.js", "Tailwind CSS", "Vercel"], // This one was already correct
-    link: "#"
-  }
+  
 ];
 
 const publications = [
