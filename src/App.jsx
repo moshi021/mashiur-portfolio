@@ -33,14 +33,14 @@ const projects = [
     title: "Geopolymer Compressive Strength Predictor",
     description: "This application predicts compressive strength of geopolymer without costly physical testing.",
   
-    techStack: ["Computational Materials Scince", "Machine Learning", "Materilas Propety Prediction"],
+    techStack: ["Computational Materials Science", "Machine Learning", "Materials Propety Prediction"],
     link: "https://geopolymer-strength-predictor.streamlit.app/"
   },
   {
     title: "Project Metamorph",
-    description: "I did this project when i participated on NASA Space App Cahllenge 2025. Growing Plant using the wastes.",
+    description: "I did this project when I participated on NASA Space App Cahllenge 2025. Growing Plant using the wastes.",
     
-    techStack: ["Materials Scince", "Waste Management", "Turning Trash to Treasure"],
+    techStack: ["Materials Scince", "Waste Management", "Turning Trash into Treasure"],
     link: "https://project-metamorph.vercel.app/"
   },
   
