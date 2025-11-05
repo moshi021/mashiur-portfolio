@@ -40,7 +40,7 @@ const projects = [
     title: "Project Metamorph",
     description: "I did this project when I participated on NASA Space App Cahllenge 2025. Growing Plant using the wastes.",
     
-    techStack: ["Materials Scince", "Waste Management", "Turning Trash into Treasure"],
+    techStack: ["Materials Science", "Waste Management", "Turning Trash into Treasure"],
     link: "https://project-metamorph.vercel.app/"
   },
   
