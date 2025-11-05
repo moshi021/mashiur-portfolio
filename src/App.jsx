@@ -32,14 +32,14 @@ const projects = [
   {
     title: "Geopolymer Compressive Strength Predictor",
     description: "This Streamlit web application predicts the compressive strength of geopolymer concrete based on 13 input parameters. It helps to  know its strength without costly physical testing.",
-    // 👇 FIX: Changed 'skills' to 'techStack'
+  
     techStack: ["Computational Materials Scince", "Machine Learning", "Materilas Propety Prediction"],
     link: "https://geopolymer-strength-predictor.streamlit.app/"
   },
   {
     title: "Project Metamorph",
-    description: "I did this project when i participated on NASA Space App Cahllenge 2025. Growing Plant using the wastes."
-    // 👇 FIX: Changed 'skills' to 'techStack'
+    description: "I did this project when i participated on NASA Space App Cahllenge 2025. Growing Plant using the wastes.",
+    
     techStack: ["Materials Scince", "Waste Management", "Turning Trash to Treasure"],
     link: "https://project-metamorph.vercel.app/"
   },
