@@ -33,14 +33,14 @@ const projects = [
     title: "Geopolymer Compressive Strength Predictor",
     description: "This application predicts compressive strength of geopolymer without costly physical testing.",
   
-    techStack: ["Computational Materials Science", "Machine Learning", "Materials Propety Prediction"],
+    techStack: ["Computational Materials Science","Materials Propety Prediction", "Machine Learning"],
     link: "https://geopolymer-strength-predictor.streamlit.app/"
   },
   {
     title: "Project Metamorph",
     description: "I did this project when I participated on NASA Space App Cahllenge 2025. Growing Plant using the wastes.",
     
-    techStack: ["Materials Science", "Waste Management", "Turning Trash into Treasure"],
+    techStack: ["Plastics Recylcing", "Waste Materials", "Materials Recycling"],
     link: "https://project-metamorph.vercel.app/"
   },
   
@@ -50,7 +50,7 @@ const publications = [
   {
     title: "The Impact of Novel Materials in Semiconductor Technology",
     journal: "Journal of Advanced Materials, Vol. 42, Issue 3",
-    year: 2024,
+    year: 2025,
     link: "#",
     authors: "Rahman, M., et al."
   },
